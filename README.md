@@ -1,15 +1,32 @@
 # Multi-Domain Support Triage Agent
 
-A production-grade, terminal-based AI support triage system designed to process and route customer support tickets across multiple domains:
+A terminal-based AI system designed to intelligently triage customer support tickets across multiple platforms, ensuring safe, accurate, and context-aware responses.
 
-- HackerRank  
-- Claude  
-- Visa  
-
-The system classifies incoming tickets, evaluates risk, retrieves relevant documentation, and decides whether to respond automatically or escalate to a human agent — all while ensuring responses are fully grounded in a support corpus.
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Type](https://img.shields.io/badge/System-Terminal%20Agent-green)
+![Approach](https://img.shields.io/badge/Method-RAG%20+%20Rule--Based-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
+## Hackathon Project
+
+This project was developed as part of the **HackerRank Orchestrate Hackathon**, focused on building a reliable multi-domain support triage system under real-world constraints.
+
+The objective was to design an agent capable of understanding diverse support queries, making safe decisions, and generating responses grounded strictly in a predefined support corpus.
+
+---
+
+##  Supported Ecosystems
+
+The system processes support tickets across:
+
+- HackerRank → coding assessments, submissions, login issues  
+- Claude → API usage, billing, access management  
+- Visa → transactions, card issues, fraud detection  
+
+---
 ##  Key Features
 
 - **Corpus-Grounded RAG (No Hallucination)**  
