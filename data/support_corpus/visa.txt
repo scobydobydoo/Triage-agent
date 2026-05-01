@@ -1,0 +1,71 @@
+VISA SUPPORT CORPUS
+====================
+
+=== ACCOUNT ISSUES ===
+
+Problem: Cannot log in to credit card account to pay bill or check balance.
+Solution: Visit your card issuer or bank website directly. The website address and freephone number are located on the front or back of your Visa card. Visa does not manage individual cardholder accounts. Contact your card-issuing bank for account access support.
+
+Problem: Card was declined at a merchant or ATM.
+Solution: Contact your card-issuing bank using the freephone number on your Visa card. Cards may be declined for various reasons including insufficient funds, daily limits, or security holds. Your bank is best equipped to provide the specific decline reason and guidance.
+
+Problem: Need to find an ATM that accepts Visa.
+Solution: Use the Visa ATM Locator available at visa.com to find one of over 2 million ATMs worldwide. ATM fees vary by bank and ATM operator.
+
+=== BILLING / PAYMENTS ===
+
+Problem: Need to dispute a charge on a Visa card.
+Solution: Contact your card-issuing bank using the freephone number on the front or back of your Visa card. Your bank will require detailed information about the transaction before resolving the dispute. The chargeback process can take 30 to 90 days to resolve.
+
+Problem: Merchant did not deliver goods or services that were paid for.
+Solution: First, try to resolve the issue directly with the merchant and keep records of your purchase and communications. If unresolved, contact your card-issuing bank to initiate a chargeback. You will need the transaction date, amount, and merchant name.
+
+Problem: Merchant is requiring a minimum or maximum purchase amount for Visa card use.
+Solution: In general, merchants are not permitted to set minimum or maximum amounts for Visa transactions. Exception: in the USA and US territories only, merchants may require a minimum of US$10 for credit card purchases. If a merchant refuses to accept a Visa debit card due to a minimum or maximum amount requirement, or requires a credit card purchase above US$10, notify your Visa card issuer.
+
+=== TECHNICAL ISSUES / BUGS ===
+
+Problem: 3-D Secure is not working during an online transaction.
+Solution: As a consumer, you should not encounter issues with 3-D Secure. If you do, contact your card-issuing bank using the phone number on your card. Visa and card issuers handle all 3-D Secure authentication automatically with no registration required from cardholders.
+
+Problem: Card is damaged and cannot be used while travelling.
+Solution: Call Visa on the USA freephone number at +1 800 847 2911 or use a global freephone number listed on the back of your card. Visa will work with your financial institution to approve and expedite delivery of an emergency card, usually within 1 to 3 days.
+
+=== SECURITY / FRAUD ===
+
+Problem: Unauthorized transaction or fraudulent charge on Visa card.
+Solution: Contact your card-issuing bank immediately to report the unauthorized transaction. Do not wait. Your bank will investigate and, if confirmed as fraud, will credit your account. Under Visa's Zero Liability Policy, cardholders are not responsible for unauthorized transactions on Visa credit, debit, or prepaid cards when reported promptly and when the card account is in good standing.
+
+Problem: Visa card is lost or stolen.
+Solution: Report the loss or theft immediately by visiting the Lost or Stolen card page on visa.com or by calling the freephone number on your card. Visa's support team can help block the card and arrange emergency services where applicable. Prompt reporting minimizes your liability under the Zero Liability Policy.
+
+Problem: Received a suspicious call or email claiming to be from Visa.
+Solution: Do not provide any personal information. Visa does not call or email cardholders to request personal information. You can report phone scams that use the Visa name by contacting Visa through the official website.
+
+Problem: Identity has been stolen and it involves a Visa card.
+Solution: Visit the Lost or Stolen card page on visa.com to learn how to cancel your card or request an emergency replacement card. Take action immediately to prevent further unauthorized use.
+
+Problem: Concerned about card security and fraud prevention.
+Solution: Protect your card by never sharing your PIN, signing the back of your card when you receive it, monitoring your statements regularly for unauthorized charges, shredding card statements before disposal, and being cautious of phishing emails or calls. If you receive a suspicious call claiming to be from Visa or your bank, hang up and call the number on the back of your card.
+
+Problem: Concerned about a specific merchant where card was used.
+Solution: Take action by filling out the merchant concern form available on the Visa website. Visa investigates merchant compliance with its rules and policies.
+
+=== PRIVACY / DATA ===
+
+Problem: Questions about Visa's data practices or cardholder data privacy.
+Solution: Visa does not issue cards and does not hold individual cardholder account data. For data privacy inquiries related to your account, contact your card-issuing bank directly.
+
+=== USAGE / FEATURES ===
+
+Problem: Want to understand how 3-D Secure or Verified by Visa works.
+Solution: 3-D Secure adds an extra layer of security to online transactions before authorization. It enables data exchange between the merchant, card issuer, and consumer to verify that the transaction is initiated by the legitimate cardholder. As a consumer, no registration is required. Your issuer handles all authentication automatically.
+
+Problem: Want to use contactless payment with Visa card.
+Solution: Your Visa card must display the contactless symbol, which looks like a wave icon. Hold the card near the payment terminal until you hear a beep or see a confirmation. Contactless payments are also supported via Apple Pay, Google Pay, and Samsung Pay on supported devices.
+
+Problem: Want to know about benefits available on a Visa card.
+Solution: Benefits vary by card type including Classic, Signature, and Infinite. Benefits may include travel insurance, purchase protection, extended warranty, concierge services, and emergency assistance. Contact your card-issuing bank or visit the benefits portal listed in your card documentation to see which benefits apply to your card.
+
+Problem: Want to use Visa card internationally or while travelling abroad.
+Solution: Visa cards are accepted in over 200 countries. Notify your bank before travelling to prevent your card from being blocked for suspicious activity. Foreign transaction fees may apply depending on your card issuer. Currency conversion uses the Visa exchange rate applicable on the transaction date. Use the Visa ATM Locator at visa.com to find ATMs abroad.

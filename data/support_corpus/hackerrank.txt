@@ -1,0 +1,101 @@
+HACKERRANK SUPPORT CORPUS
+==========================
+
+=== ACCOUNT ISSUES ===
+
+Problem: Cannot log in to account or access account.
+Solution: Ensure you are using the correct login method (email, Google, or LinkedIn SSO). If you forgot your password, use the Forgot Password link on the login page and check your spam folder for the reset email. If the account remains locked after multiple failed attempts, it unlocks automatically after 30 minutes. For persistent lockouts, contact support with your username and registered email.
+
+Problem: Cannot send email invites to candidates for a test.
+Solution: Only Company Admin and Recruiter user roles can send test email invitations. Ensure your user role has the Allowed to Send Invites entitlement turned on. If your role is Developer or Interviewer, ask a Company Admin to adjust your role.
+
+Problem: Cannot find a candidate's attempt or test history.
+Solution: On your home page, click the Candidates tab and search for the candidate by name or email ID. You will see their skills summary, timeline of events, and public profile.
+
+Problem: Want to add custom questions to HackerRank for Work.
+Solution: Log in to your HackerRank for Work account. After logging in, you can create and add questions to your company library via the Creating Custom Questions section.
+
+Problem: Want to rename a test.
+Solution: Refer to the How to Rename a Test article in the HackerRank knowledge base for step-by-step instructions.
+
+Problem: Want to try a question or a test before publishing.
+Solution: Refer to the How to Try a Question or a Test article in the HackerRank knowledge base.
+
+Problem: Want to assess Selenium skills using HackerRank.
+Solution: Refer to the How to Assess Selenium Skills article in the HackerRank knowledge base for detailed steps.
+
+=== BILLING / PAYMENTS ===
+
+Problem: Need to cancel subscription or get a refund.
+Solution: Go to Account Settings, then Billing, then Cancel Subscription. Refunds are processed within 7 to 10 business days for eligible cancellations within the refund window. For billing disputes or unexpected charges, contact billing support immediately with your transaction ID and the amount charged.
+
+Problem: Unexpected or incorrect charge on account.
+Solution: Contact billing support immediately with your transaction ID and the charged amount. Timely reporting is important for dispute resolution.
+
+=== TECHNICAL ISSUES / BUGS ===
+
+Problem: Font appears black in Interview dark mode on macOS.
+Solution: Two options available. Option 1: Open Font Book, search for Source Code Pro. If found, right-click and disable it, then download and reinstall from Google Fonts, then refresh the interview page. Option 2: Open the interview in Safari instead of a third-party browser.
+
+Problem: Issue encountered during a live interview.
+Solution: Use a supported browser and run the System Compatibility Check at hackerrank.com/compatibility to identify browser, network, or device issues. If the issue persists, email support@hackerrank.com and include your interview link.
+
+Problem: Code submission times out.
+Solution: Your solution is exceeding the allowed time limit. Optimize your algorithm for time complexity. The time limit is displayed on each challenge page. Review edge cases such as empty inputs and maximum constraints when passing visible tests but failing hidden tests.
+
+Problem: Code editor is not loading.
+Solution: Disable browser extensions including ad blockers and try in an incognito or private window. Supported browsers are Chrome, Firefox, and Edge. Internet Explorer is not supported.
+
+Problem: Compilation or output errors in code submission.
+Solution: Check that your code reads input and produces output in the format described in the problem. Common causes include incorrect input reading or not flushing output buffers.
+
+Problem: Cut-off score was changed after candidate reports were generated.
+Solution: Changing the cut-off score does not affect already-generated reports. Only candidates whose reports are generated after the change will reflect the new status.
+
+=== SECURITY / FRAUD ===
+
+Problem: Suspected plagiarism or code copying in a test.
+Solution: HackerRank uses two detection methods. Standard plagiarism detection uses Moss to compare submissions. Advanced AI plagiarism detection uses a machine learning model analyzing code writing patterns, time taken, copy-paste activity, and tab-switching. Flagged attempts are marked as High or Medium confidence. The ML model has approximately 85 percent precision. Human review is recommended before acting on flagged results. To enable advanced detection, go to Test Settings, click Test Integrity, scroll to Plagiarism, and enable the AI Plagiarism toggle.
+
+Problem: Candidate's code was incorrectly flagged for plagiarism.
+Solution: Submit an appeal with justification. Appeals are reviewed within 5 business days.
+
+Problem: Want to understand why a candidate was flagged for plagiarism.
+Solution: Go to the Candidate List, select the flagged candidate, open the Performance tab in the Candidate Summary report, click on the flagged question, and use the Keystroke Codeplayer to review the suspicious activity in detail.
+
+Problem: AI plagiarism detection not flagging simple or short solutions.
+Solution: AI detection is limited for questions with minimal effort required or very short solutions. The system may still flag responses if significant external content is copy-pasted, but accuracy is reduced for simple questions.
+
+=== PRIVACY / DATA ===
+
+Problem: Need to delete a specific candidate's profile and data.
+Solution: Log in as a Company Admin. Go to the Candidates page, search for the candidate, and click the delete option. Deletion is irreversible. Only Company Admins can delete candidate profiles.
+
+Problem: Need to delete candidate data in bulk.
+Solution: Email support@hackerrank.com or submit a support request via the platform. Route through your Customer Success Manager or Account Manager if assigned. HackerRank will anonymize the data within 14 days and notify you when complete.
+
+Problem: Want to download or export candidate data.
+Solution: Go to the Candidates tab inside a test. Click the vertical ellipsis next to the candidate's attempt, click Visit Profile, then click the ellipsis on the profile page and select Export Profile. Data downloads in a portable format. PDF and Excel test reports and CodePair interview reports are also available.
+
+Problem: Candidate wants to delete or edit their own test data.
+Solution: HackerRank does not allow candidates to directly modify or delete their test data. Candidates must contact the company that administered the test.
+
+Problem: Candidate wants to download their own test data.
+Solution: HackerRank does not allow candidates to download their own test data directly. They must contact the administering company.
+
+=== USAGE / FEATURES ===
+
+Problem: Need to know the maximum number of candidates assessable simultaneously.
+Solution: Up to 100,000 candidates can be assessed simultaneously using coding assessments.
+
+Problem: Want to include emojis in the test disclaimer.
+Solution: Test disclaimers support plain text only. Emojis or non-standard characters can prevent candidates from starting the test.
+
+Problem: Unsure whether re-inviting a candidate reduces the invite count.
+Solution: Re-inviting a candidate who has not yet finished a test does not reduce the invite count. Re-inviting a candidate who has already completed the test counts as a new invite.
+
+Problem: Questions about GDPR compliance and data handling.
+Solution: HackerRank for Work is a Data Processor. Customers are Data Controllers. HackerRank does not share or distribute customer data except as required by contract or law. An audit trail of all user events is maintained and can be retrieved via API or by submitting a support request.
+
+Problem: Deleted candidate data needs to be reinstated.
+Solution: Deleted candidate data cannot be reinstated. Deletion is permanent and irreversible.

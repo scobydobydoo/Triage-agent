@@ -1,0 +1,153 @@
+status,product_area,response,justification,request_type
+replied,enterprise,"Thank you for reaching out to Anthropic Support.
+
+Regarding your query: ""I lost access to my Claude team workspace after our IT admin removed my seat"", here’s what you should know:
+
+• Problem: Want to use Claude for an organization or enterprise use case. Solution: Claude Team and Enterprise plans include shared workspaces, admin controls, SSO integration, audit logs, and dedicated support.
+
+• Problem: Reached daily message limit on the free plan. Solution: The free plan has a daily message limit that resets every 24 hours.
+
+If this doesn’t fully resolve your issue, feel free to reply with more details and we’ll assist you further.",Low-risk issue matched with Claude support documentation (score=0.42) — safe to reply.,product_issue
+escalated,hiring_tools,"Thank you for contacting HackerRank Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Request involves actions outside system authority — escalated for manual review.,product_issue
+escalated,chargeback_dispute,"Thank you for contacting Visa Support Services.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Request involves actions outside system authority — escalated for manual review.,product_issue
+escalated,billing,"Thank you for contacting HackerRank Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.14) — escalated for accuracy.,bug
+escalated,billing,"Thank you for contacting HackerRank Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.22) — escalated for accuracy.,product_issue
+replied,hiring_tools,"Thank you for contacting HackerRank Support.
+
+Regarding your query: ""I am planning to start using HackerRank for hiring, can you help us with the infosec 
+process of my"", here’s what you should know:
+
+• Problem: Questions about GDPR compliance and data handling. Solution: HackerRank for Work is a Data Processor.
+
+• Problem: Need to know the maximum number of candidates assessable simultaneously. Solution: Up to 100,000 candidates can be assessed simultaneously using coding assessments.
+
+If this doesn’t fully resolve your issue, feel free to reply with more details and we’ll assist you further.",Low-risk issue matched with HackerRank support documentation (score=0.44) — safe to reply.,product_issue
+escalated,coding_challenges,"Thank you for contacting HackerRank Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.26) — escalated for accuracy.,bug
+replied,coding_challenges,"Thank you for contacting HackerRank Support.
+
+Regarding your query: ""none of the submissions across any challenges are working on your website"", here’s what you should know:
+
+• Problem: Want to include emojis in the test disclaimer. Solution: Test disclaimers support plain text only.
+
+• Problem: Unsure whether re-inviting a candidate reduces the invite count. Solution: Re-inviting a candidate who has not yet finished a test does not reduce the invite count.
+
+If this doesn’t fully resolve your issue, feel free to reply with more details and we’ll assist you further.",Low-risk issue matched with HackerRank support documentation (score=0.42) — safe to reply.,product_issue
+escalated,technical,"Thank you for contacting HackerRank Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.25) — escalated for accuracy.,product_issue
+replied,certificates,"Thank you for contacting HackerRank Support.
+
+Regarding your query: ""I would like to request a rescheduling of my  company ""Company Name"" HackerRank assessment due to un"", here’s what you should know:
+
+• Problem: Questions about GDPR compliance and data handling. Solution: HackerRank for Work is a Data Processor.
+
+• Problem: Want to include emojis in the test disclaimer. Solution: Test disclaimers support plain text only.
+
+If this doesn’t fully resolve your issue, feel free to reply with more details and we’ll assist you further.",Low-risk issue matched with HackerRank support documentation (score=0.46) — safe to reply.,product_issue
+replied,hiring_tools,"Thank you for contacting HackerRank Support.
+
+Regarding your query: ""Can you please confirm the inactivity times currently set (and are they different for candidate/inte"", here’s what you should know:
+
+• Problem: Deleted candidate data needs to be reinstated. Solution: Deleted candidate data cannot be reinstated.
+
+• Problem: Unsure whether re-inviting a candidate reduces the invite count. Solution: Re-inviting a candidate who has not yet finished a test does not reduce the invite count.
+
+If this doesn’t fully resolve your issue, feel free to reply with more details and we’ll assist you further.",Low-risk issue matched with HackerRank support documentation (score=0.41) — safe to reply.,product_issue
+escalated,general_inquiry,"Thank you for contacting support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",No relevant support documentation found — escalated to avoid incorrect guidance.,product_issue
+escalated,general_inquiry,"Thank you for contacting HackerRank Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.23) — escalated for accuracy.,product_issue
+escalated,hiring_tools,"Thank you for contacting HackerRank Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",No relevant support documentation found — escalated to avoid incorrect guidance.,product_issue
+replied,technical,"Thank you for reaching out to Anthropic Support.
+
+Regarding your query: ""Claude has stopped working completely, all requests are failing"", here’s what you should know:
+
+• Problem: Claude declined a legitimate request. Solution: Try rephrasing the request to make the context and purpose clearer.
+
+If this doesn’t fully resolve your issue, feel free to reply with more details and we’ll assist you further.",Low-risk issue matched with Claude support documentation (score=0.47) — safe to reply.,product_issue
+escalated,fraud_security,"Thank you for contacting Visa Support Services.
+
+We understand your account may have been compromised — this is a serious security incident. Your case has been escalated to our security team for immediate review. Please do not attempt to log in further and watch for a secure email from our team with next steps to recover your account.",High-risk issue detected (account compromise) — requires human intervention.,product_issue
+escalated,general_inquiry,"Thank you for contacting HackerRank Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.16) — escalated for accuracy.,product_issue
+escalated,certificates,"Thank you for contacting HackerRank Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.17) — escalated for accuracy.,bug
+escalated,chargeback_dispute,"Thank you for contacting Visa Support Services.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.23) — escalated for accuracy.,product_issue
+escalated,technical,"Thank you for reaching out to Anthropic Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.22) — escalated for accuracy.,bug
+escalated,privacy_data,"Thank you for reaching out to Anthropic Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.28) — escalated for accuracy.,product_issue
+replied,atm_services,"Thank you for contacting Visa Support Services.
+
+Regarding your query: ""I need urgent cash but don't have any right now & only the VISA card"", here’s what you should know:
+
+• Problem: Want to use Visa card internationally or while travelling abroad. Solution: Visa cards are accepted in over 200 countries.
+
+• Problem: Want to know about benefits available on a Visa card. Solution: Benefits vary by card type including Classic, Signature, and Infinite.
+
+If this doesn’t fully resolve your issue, feel free to reply with more details and we’ll assist you further.",Low-risk issue matched with Visa support documentation (score=0.41) — safe to reply.,product_issue
+escalated,privacy_data,"Thank you for reaching out to Anthropic Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.27) — escalated for accuracy.,product_issue
+escalated,general_inquiry,"Thank you for contacting support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",No relevant support documentation found — escalated to avoid incorrect guidance.,product_issue
+escalated,fraud_security,"Thank you for contacting Visa Support Services.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.15) — escalated for accuracy.,product_issue
+replied,general_inquiry,"Thank you for reaching out to Anthropic Support.
+
+Regarding your query: ""I am facing multiple issues in my project"", here’s what you should know:
+
+• Problem: Questions about Claude Code setup, SSO, or organization configuration. Solution: Claude Code supports VS Code, Cursor, IntelliJ, PyCharm, and other JetBrains IDEs.
+
+• Problem: Claude declined a legitimate request. Solution: Try rephrasing the request to make the context and purpose clearer.
+
+If this doesn’t fully resolve your issue, feel free to reply with more details and we’ll assist you further.",Low-risk issue matched with Claude support documentation (score=0.36) — safe to reply.,product_issue
+replied,account_access,"Thank you for contacting HackerRank Support.
+
+Regarding your query: ""one of my employee has left"", here’s what you should know:
+
+• Problem: Questions about GDPR compliance and data handling. Solution: HackerRank for Work is a Data Processor.
+
+• Problem: Want to include emojis in the test disclaimer. Solution: Test disclaimers support plain text only.
+
+If this doesn’t fully resolve your issue, feel free to reply with more details and we’ll assist you further.",Low-risk issue matched with HackerRank support documentation (score=0.31) — safe to reply.,product_issue
+replied,enterprise,"Thank you for reaching out to Anthropic Support.
+
+Regarding your query: ""i am a professor in a college and wanted to setup a claude lti key for my students"", here’s what you should know:
+
+• Problem: Questions about Claude Code setup, SSO, or organization configuration. Solution: Claude Code supports VS Code, Cursor, IntelliJ, PyCharm, and other JetBrains IDEs.
+
+• Problem: Claude Code is showing an error that Pro or Max is required despite having a Team or Enterprise plan. Solution: This means the wrong login method was selected at setup.
+
+If this doesn’t fully resolve your issue, feel free to reply with more details and we’ll assist you further.",Low-risk issue matched with Claude support documentation (score=0.46) — safe to reply.,product_issue
+replied,general_inquiry,"Thank you for contacting Visa Support Services.
+
+Regarding your query: ""i am in US Virgin Islands and the merchant is saying i have to spend minimum 10$ on my VISA card, wh"", here’s what you should know:
+
+• Problem: Want to use Visa card internationally or while travelling abroad. Solution: Visa cards are accepted in over 200 countries.
+
+• Problem: Want to know about benefits available on a Visa card. Solution: Benefits vary by card type including Classic, Signature, and Infinite.
+
+If this doesn’t fully resolve your issue, feel free to reply with more details and we’ll assist you further.",Low-risk issue matched with Visa support documentation (score=0.62) — safe to reply.,product_issue

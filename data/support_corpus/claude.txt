@@ -1,0 +1,104 @@
+CLAUDE (ANTHROPIC) SUPPORT CORPUS
+===================================
+
+=== ACCOUNT ISSUES ===
+
+Problem: Paid for Pro or Max plan but account is showing as free.
+Solution: Two things to check. First, confirm you are logged in with the same email used to purchase the plan as you may have multiple accounts. Second, navigate to Settings then Billing to check your recent payment status. Your payment method may have failed and the account downgraded automatically. Update your payment method if needed.
+
+Problem: Want to change team name on a Team or Enterprise plan.
+Solution: Owners can update the team name by navigating to Organization settings then Organization and clicking Update under the current team name. Enter the new name and click Save.
+
+Problem: Want to change a team member's name.
+Solution: It is not possible to change another user's name on their behalf. The user must log in to their own account, navigate to Settings then General, edit the Full name field, and click Save changes.
+
+Problem: Want to create multiple teams.
+Solution: For Team plans, purchase additional Team plans to create more teams. For Enterprise plans, contact Anthropic Sales to discuss purchasing multiple Enterprise plans.
+
+Problem: Want to view all members on a team.
+Solution: Admins and Owners can view all team members by navigating to Organization settings then Organization.
+
+Problem: Want to add allowed email domains for team members.
+Solution: Navigate to Organization settings then Identity and access. Click Add or edit domains under Domains. Enter the new domain, click the plus button to add it, and then click Save. Public domains such as gmail.com, yahoo.com, and hotmail.com can be added. Owners can remove domains using the trash icon in the same modal.
+
+Problem: Cannot access Claude or Claude is not responding.
+Solution: Check your internet connection and refresh the page. Check the Anthropic status page at status.anthropic.com for ongoing incidents. Clearing browser cache and cookies can resolve display issues. For persistent problems, contact support at support.anthropic.com with details about the issue, browser used, and any error messages.
+
+Problem: Cannot log in or create an account.
+Solution: Visit claude.ai and sign up with an email address or Google account. Email verification is required before you can start chatting. If you have trouble logging in, try the same provider you registered with.
+
+=== BILLING / PAYMENTS ===
+
+Problem: Need to find an invoice or receipt for a Pro or Max plan payment.
+Solution: Click your initials or name in the lower left corner, select Settings, navigate to Settings then Billing, find the Invoices section, and click the View button next to the relevant invoice. All invoices are also automatically emailed to your billing email. Search your inbox for the subject line Your receipt from Anthropic.
+
+Problem: Need to edit billing details such as payment method or card.
+Solution: Click your initials or name in the lower left corner, select Settings, navigate to Settings then Billing, click the Update button next to your payment method, enter the new billing details, and click Update. Changes take effect at the next renewal.
+
+Problem: Want to use a different name on invoices.
+Solution: When adding or updating your payment method in Settings then Billing, check the Use a different name on invoices box and enter the preferred name.
+
+Problem: Paid invoice has incorrect information and needs to be edited.
+Solution: Paid invoices cannot be edited or reissued. The internal team cannot modify information on finalized invoices.
+
+Problem: Want to change the billing date for a Pro or Max subscription.
+Solution: There is no direct way to change the billing date. To change it, unsubscribe from the current plan and resubscribe on the preferred date to establish a new monthly billing cycle.
+
+Problem: Only credit or debit card is accepted and need an alternate payment method.
+Solution: Claude Pro and Max plans only accept credit or debit card payments. No other payment methods are currently available.
+
+Problem: Unauthorized or unexpected charge appeared on account.
+Solution: Contact Anthropic support immediately with your account email and transaction details. Navigate to Settings then Billing to review recent payment history and confirm the charge.
+
+=== TECHNICAL ISSUES / BUGS ===
+
+Problem: Claude is not responding or the page is not loading.
+Solution: Refresh the page and check your internet connection. Visit status.anthropic.com to check for ongoing service incidents. Clear browser cache and cookies. If the issue continues, contact support at support.anthropic.com with your browser details and any error messages.
+
+Problem: Conversation context is being lost or old messages are disappearing.
+Solution: Claude has a context window limit. When conversations become very long, older parts may be truncated. Starting a new conversation resets the context fully.
+
+=== SECURITY / FRAUD ===
+
+Problem: Received a suspicious email or call claiming to be from Anthropic.
+Solution: Do not share personal information, passwords, or financial data with anyone claiming to represent Anthropic unless you initiated the contact. Anthropic will not ask for your password. Report suspicious contact through the official support page at support.anthropic.com.
+
+Problem: API key is compromised or not working.
+Solution: Revoke the compromised key immediately from the Anthropic Console at console.anthropic.com and generate a new one. API keys must be kept secret and must never be exposed in client-side code or public repositories. If the key is not working, verify it has not been revoked and that your account has sufficient credits.
+
+=== PRIVACY / DATA ===
+
+Problem: Want to opt out of having conversations used for AI training.
+Solution: Navigate to Account Settings then Privacy and toggle off the option to allow conversations to be used for training.
+
+Problem: Want to delete account and personal data.
+Solution: Go to Settings then Privacy and submit a data deletion request. Anthropic will process the request within the timeframe required by applicable law.
+
+Problem: Want to export conversation history.
+Solution: Go to Settings then Privacy and select the data export option to download your conversation history.
+
+Problem: Concerned about what data Anthropic stores.
+Solution: Anthropic stores conversations and may review them for safety purposes. Do not share sensitive personal information, passwords, financial data, or confidential business information in conversations with Claude.
+
+=== USAGE / FEATURES ===
+
+Problem: Reached daily message limit on the free plan.
+Solution: The free plan has a daily message limit that resets every 24 hours. Upgrading to Claude Pro provides significantly higher limits, priority access, and access to more powerful models during peak hours.
+
+Problem: Claude declined a legitimate request.
+Solution: Try rephrasing the request to make the context and purpose clearer. Providing more context about why you need the information can help Claude understand the intent. Claude declines requests that it determines may cause harm based on Anthropic's usage policies.
+
+Problem: Want to use Claude for an organization or enterprise use case.
+Solution: Claude Team and Enterprise plans include shared workspaces, admin controls, SSO integration, audit logs, and dedicated support. Contact Anthropic Sales via claude.com/contact-sales for custom enterprise agreements and volume pricing.
+
+Problem: Want to use Claude via API for a developer integration or product.
+Solution: API access is available via the Anthropic Console at console.anthropic.com. API billing is based on tokens consumed. Rate limits apply per API key. See the Anthropic pricing page for current rates.
+
+Problem: Questions about Claude Code setup, SSO, or organization configuration.
+Solution: Claude Code supports VS Code, Cursor, IntelliJ, PyCharm, and other JetBrains IDEs. SSO can be configured through the Console organization settings. For Bedrock or Vertex deployments, rate limiting is the most effective way to control model access across the organization. Users connect by running the login command in Claude Code and selecting the correct account. For more details, refer to the Claude Code FAQ and Claude Docs.
+
+Problem: Questions about Claude Code cost management.
+Solution: Switch from Opus to Sonnet using the model configuration option to reduce costs on automated workflows. Monitor usage through the Console dashboard and set rate limits. Use Workspaces to set spend limits per user group. Per API key spend is viewable in the Console under Cost and Usage Reporting.
+
+Problem: Claude Code is showing an error that Pro or Max is required despite having a Team or Enterprise plan.
+Solution: This means the wrong login method was selected at setup. Run the login command again inside Claude Code and select the account associated with your primary work email address.

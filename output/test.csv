@@ -1,0 +1,37 @@
+status,product_area,response,justification,request_type
+escalated,general_inquiry,"Thank you for contacting HackerRank Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",No relevant support documentation found — escalated to avoid incorrect guidance.,product_issue
+escalated,general_inquiry,"Thank you for contacting support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",No relevant support documentation found — escalated to avoid incorrect guidance.,product_issue
+escalated,general_inquiry,"Thank you for contacting HackerRank Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.15) — escalated for accuracy.,product_issue
+escalated,certificates,"Thank you for contacting HackerRank Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.22) — escalated for accuracy.,product_issue
+escalated,account_access,"Thank you for contacting HackerRank Support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",Low retrieval confidence (score=0.25) — escalated for accuracy.,product_issue
+replied,privacy_data,"Thank you for reaching out to Anthropic Support.
+
+Regarding your query: ""One of my claude conversations has some private info, i forgot to make a temporary chat, is there an"", here’s what you should know:
+
+• Problem: Claude declined a legitimate request. Solution: Try rephrasing the request to make the context and purpose clearer.
+
+• Problem: Questions about Claude Code setup, SSO, or organization configuration. Solution: Claude Code supports VS Code, Cursor, IntelliJ, PyCharm, and other JetBrains IDEs.
+
+If this doesn’t fully resolve your issue, feel free to reply with more details and we’ll assist you further.",Low-risk issue matched with Claude support documentation (score=0.37) — safe to reply.,product_issue
+escalated,general_inquiry,"Thank you for contacting support.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",No relevant support documentation found — escalated to avoid incorrect guidance.,product_issue
+escalated,fraud_security,"Thank you for contacting Visa Support Services.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",No relevant support documentation found — escalated to avoid incorrect guidance.,product_issue
+escalated,fraud_security,"Thank you for contacting Visa Support Services.
+
+A lost or stolen card requires immediate action. Your case has been escalated to our fraud prevention team. Please contact your card-issuing bank right away to cancel the card and request a replacement. Under Visa's Zero Liability Policy, you are protected from unauthorized charges when reported promptly.",High-risk issue detected (lost stolen card) — requires human intervention.,product_issue
+escalated,account_security,"Thank you for contacting Visa Support Services.
+
+Your request has been escalated to a human support specialist who will review your case and respond as soon as possible. We apologize for any inconvenience.",No relevant support documentation found — escalated to avoid incorrect guidance.,product_issue
