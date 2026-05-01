@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Data (given files / large files)
+data/
+
+# CSV files (except final output if needed)
+*.csv
+
+# Logs
+*.log
+output/log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
