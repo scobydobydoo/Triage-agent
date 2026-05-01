@@ -10,7 +10,7 @@ The system classifies incoming tickets, evaluates risk, retrieves relevant docum
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Corpus-Grounded RAG (No Hallucination)**  
   All responses are generated strictly from the support corpus using a retrieval-based approach.
@@ -234,7 +234,7 @@ INFO     | Ticket #  3 | Claude      | product_issue    | escalated  | content_p
 | Hallucination risk | Strict corpus grounding   |
 
 
-## 🎯 Conclusion
+##  Conclusion
 
 This project demonstrates how a rule-based + retrieval-driven system can effectively automate support triage while maintaining safety, explainability, and domain grounding.
 
